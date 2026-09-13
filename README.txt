@@ -1,2 +1,1 @@
-# DL_BaiTapLyThuyet-ThucHanh_AnhKhoa
-Nộp bài tập lý thuyết và thực hành cá nhân
+Nguyễn Hữu Anh Khoa-3123411158-DCT123C4
